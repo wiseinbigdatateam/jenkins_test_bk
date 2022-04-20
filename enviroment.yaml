@@ -24,4 +24,4 @@ dependencies:
     - backports-zoneinfo==0.2.1
     - django==4.0.4
     - sqlparse==0.4.2
-prefix: /opt/homebrew/Caskroom/miniforge/base/envs/django
+
